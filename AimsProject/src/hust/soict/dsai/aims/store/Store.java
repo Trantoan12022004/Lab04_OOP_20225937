@@ -2,7 +2,7 @@ package hust.soict.cybersec.aims.store;
 import java.util.ArrayList;
 import java.util.List;
 
-import hust.soict.cybersec.aims.media.DigitalVideoDisc;
+import hust.soict.cybersec.aims.disc.DigitalVideoDisc;
 
 public class Store {
 
